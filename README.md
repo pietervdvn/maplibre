@@ -8,7 +8,7 @@ Charter, elections, roles & responsibilities, bounties, recruitment, sponsorship
 
 Minutes from:
 
-- [Technical Steeering Commitee meetings](https://github.com/maplibre/maplibre/discussions/categories/technical-steering-committee-meetings)
+- [Technical Steering Commitee meetings](https://github.com/maplibre/maplibre/discussions/categories/technical-steering-committee-meetings)
 - [Governing Board meetings](https://github.com/maplibre/maplibre/discussions/categories/governing-board-meetings)
 - [Advisory Council Meetings](https://github.com/maplibre/maplibre/discussions/categories/advisory-council-meetings).
 
